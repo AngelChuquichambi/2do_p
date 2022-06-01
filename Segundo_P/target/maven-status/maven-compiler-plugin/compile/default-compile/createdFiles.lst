@@ -1,0 +1,10 @@
+com\emergentes\basedatos\prueva.class
+com\emergentes\modelo\seminarios.class
+com\emergentes\controladores\controlador_seminarios.class
+com\emergentes\modelo\participantes.class
+com\emergentes\dao\DAOparticipantes.class
+com\emergentes\dao\IDseminario.class
+com\emergentes\dao\DAOseminarios.class
+com\emergentes\dao\ID_participantes.class
+com\emergentes\controladores\controlador_participantes.class
+com\emergentes\basedatos\conexion_bd.class
